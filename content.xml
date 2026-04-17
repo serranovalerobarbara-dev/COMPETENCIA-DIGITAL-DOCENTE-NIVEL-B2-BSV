@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604171943082GCC0D</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260417194308VRZ9QD</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Presupuesto familiar: tomando decisiones inteligentes</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Bárbara Serrano Valero</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje de Matemáticas para 2º ESO basada en la elaboración de un presupuesto familiar. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776446542199</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mo36ekg3-o1l9x10pz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Portada</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Portada</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg3-o1l9x10pz</odePageId>
+      <odeBlockId>block-1775814737135-r2kppb6ny</odeBlockId>
+      <blockName>Portada</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg3-o1l9x10pz</odePageId>
+          <odeBlockId>block-1775814737135-r2kppb6ny</odeBlockId>
+          <odeIdeviceId>idevice-1775814737131-p47bc4vg1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: center;">Matemáticas y presupuesto familiar: tomando decisiones inteligentes</h1>
+<h3 style="text-align: center;">Matemáticas - 2º ESO</h3>
+<p> </p>
+<figure class="exe-figure position-center" style="width: 1440px;"><img src="{{context_path}}/content/resources/pexels-karola-g-5900228.jpg" title="Presupuesto familiar" width="1440" height="960" alt="Imagen relacionada con la elaboración de un presupuesto" />
+<figcaption class="figcaption"><span class="author">Pexels</span>. <span class="license"><span class="sep">(</span><span class="custom-license">Pexels License</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p></p>
+<p>Bárbara Serrano Valero</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775814737131-p47bc4vg1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: center;\">Matemáticas y presupuesto familiar: tomando decisiones inteligentes</h1>\n<h3 style=\"text-align: center;\">Matemáticas - 2º ESO</h3>\n<p> </p>\n<figure class=\"exe-figure position-center\" style=\"width: 1440px;\"><img src=\"{{context_path}}/content/resources/pexels-karola-g-5900228.jpg\" title=\"Presupuesto familiar\" width=\"1440\" height=\"960\" alt=\"Imagen relacionada con la elaboración de un presupuesto\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Pexels</span>. <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Pexels License</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p></p>\n<p>Bárbara Serrano Valero</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg6-atla1z36i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg6-atla1z36i</odePageId>
+      <odeBlockId>block-1775815725170-qhu9ty1ht</odeBlockId>
+      <blockName>Presentación del proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg6-atla1z36i</odePageId>
+          <odeBlockId>block-1775815725170-qhu9ty1ht</odeBlockId>
+          <odeIdeviceId>idevice-1775815725168-k3ya8h7qe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto plantea una situación de aprendizaje en la que el alumnado deberá elaborar un presupuesto digital en grupo.</p>
+<p>A lo largo del proyecto, el alumnado trabajará herramientas digitales para organizar ingresos y gastos, tomar decisiones económicas y justificar sus elecciones.</p>
+<p>Se trata de un aprendizaje basado en proyectos que favorece la autonomía, el trabajo cooperativo y la aplicación de contenidos matemáticos a situaciones reales. </p>
+<p>En esta presentación se describe el proyecto que vamos a realizar a lo largo de la Situación de Aprendizaje, sus objetivos y el producto final esperado:</p>
+<p><a href="https://view.genially.com/69aaaf6b2beecaef514c2ebe">https://view.genially.com/69aaaf6b2beecaef514c2ebe</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775815725168-k3ya8h7qe","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto plantea una situación de aprendizaje en la que el alumnado deberá elaborar un presupuesto digital en grupo.</p>\n<p>A lo largo del proyecto, el alumnado trabajará herramientas digitales para organizar ingresos y gastos, tomar decisiones económicas y justificar sus elecciones.</p>\n<p>Se trata de un aprendizaje basado en proyectos que favorece la autonomía, el trabajo cooperativo y la aplicación de contenidos matemáticos a situaciones reales. </p>\n<p>En esta presentación se describe el proyecto que vamos a realizar a lo largo de la Situación de Aprendizaje, sus objetivos y el producto final esperado:</p>\n<p><a href=\"https://view.genially.com/69aaaf6b2beecaef514c2ebe\">https://view.genially.com/69aaaf6b2beecaef514c2ebe</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg7-sylxlgapc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Uso seguro de la tecnología</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Uso seguro de la tecnología</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg7-sylxlgapc</odePageId>
+      <odeBlockId>block-1775816791730-w251ug5r2</odeBlockId>
+      <blockName>Uso seguro de la tecnología</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg7-sylxlgapc</odePageId>
+          <odeBlockId>block-1775816791730-w251ug5r2</odeBlockId>
+          <odeIdeviceId>idevice-1775816791727-xqai4c4oo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este proyecto el alumnado utilizará herramientas digitales para la elaboración de un presupuesto familiar, por lo que es fundamental garantizar el uso responsable, seguro y ético de la tecnología. </p>
+<p>La siguiente infografía resume las principales normas de seguridad digital que deben seguirse durante el proyecto. </p>
+<p><a href="https://canva.link/q1r2a6xi4vqtakh">https://canva.link/q1r2a6xi4vqtakh</a></p>
+<p>El uso de la tecnología en el aula se realizará siempre bajo supervisión docente, fomentando la ciudadanía digital responsable. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775816791727-xqai4c4oo","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este proyecto el alumnado utilizará herramientas digitales para la elaboración de un presupuesto familiar, por lo que es fundamental garantizar el uso responsable, seguro y ético de la tecnología. </p>\n<p>La siguiente infografía resume las principales normas de seguridad digital que deben seguirse durante el proyecto. </p>\n<p><a href=\"https://canva.link/q1r2a6xi4vqtakh\">https://canva.link/q1r2a6xi4vqtakh</a></p>\n<p>El uso de la tecnología en el aula se realizará siempre bajo supervisión docente, fomentando la ciudadanía digital responsable. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg8-lvs7p1ayz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg8-lvs7p1ayz</odePageId>
+      <odeBlockId>block-1775816521219-49c8sipuv</odeBlockId>
+      <blockName>Producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg8-lvs7p1ayz</odePageId>
+          <odeBlockId>block-1775816521219-49c8sipuv</odeBlockId>
+          <odeIdeviceId>idevice-1775816521217-qezl8y5py</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para la realización del producto final de mi situación de aprendizaje, dirigida al alumnado de 2º de ESO y centrada en la elaboración de un presupuesto familiar, propongo el uso combinado de Google Sheets, Google Docs, Padlet y Genially, integrando cada herramienta en una fase concreta del proyecto.</p>
+<p>En una primera sesión se utiliza Padlet con el objetivo de realizar una lluvia de ideas y activar los conocimientos previos del alumnado. Se trata de una herramienta muy visual, intuitiva y accesible al nivel y competencia digital del alumnado, que favorece la participación de todo el grupo.</p>
+<p>Para la explicación de los contenidos teóricos necesarios, se emplea Genially ya que, permite presentar la información de forma clara e interactiva, facilitando la compresión de los conceptos y atendiendo a la diversidad del alumnado mediante distintos ritmos y formatos.</p>
+<p>En las sesiones posteriores, el alumnado trabajará de forma cooperativa con Google Sheets para organizar los datos y realizar los cálculos del presupuesto. Finalmente, se utilizará Google Docs para redactar y justificar el trabajo final, explicando las decisiones tomadas. Estas herramientas son versátiles, están disponibles en el centro y permiten el trabajo colaborativo en tiempo real, además de adaptarse bien a la edad y al nivel de competencia digital del alumnado.</p>
+<p>Considero que el uso combinado de estas herramientas favorece tanto el aprendizaje matemático como el desarrollo de la competencia digital del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775816521217-qezl8y5py","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para la realización del producto final de mi situación de aprendizaje, dirigida al alumnado de 2º de ESO y centrada en la elaboración de un presupuesto familiar, propongo el uso combinado de Google Sheets, Google Docs, Padlet y Genially, integrando cada herramienta en una fase concreta del proyecto.</p>\n<p>En una primera sesión se utiliza Padlet con el objetivo de realizar una lluvia de ideas y activar los conocimientos previos del alumnado. Se trata de una herramienta muy visual, intuitiva y accesible al nivel y competencia digital del alumnado, que favorece la participación de todo el grupo.</p>\n<p>Para la explicación de los contenidos teóricos necesarios, se emplea Genially ya que, permite presentar la información de forma clara e interactiva, facilitando la compresión de los conceptos y atendiendo a la diversidad del alumnado mediante distintos ritmos y formatos.</p>\n<p>En las sesiones posteriores, el alumnado trabajará de forma cooperativa con Google Sheets para organizar los datos y realizar los cálculos del presupuesto. Finalmente, se utilizará Google Docs para redactar y justificar el trabajo final, explicando las decisiones tomadas. Estas herramientas son versátiles, están disponibles en el centro y permiten el trabajo colaborativo en tiempo real, además de adaptarse bien a la edad y al nivel de competencia digital del alumnado.</p>\n<p>Considero que el uso combinado de estas herramientas favorece tanto el aprendizaje matemático como el desarrollo de la competencia digital del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg8-b05j62iuj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg8-b05j62iuj</odePageId>
+      <odeBlockId>block-1775905632892-331zzvf63</odeBlockId>
+      <blockName>Recursos para el alumnado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg8-b05j62iuj</odePageId>
+          <odeBlockId>block-1775905632892-331zzvf63</odeBlockId>
+          <odeIdeviceId>idevice-1775905632885-qhkqunhy8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio el alumnado encontrará todos los recursos necesarios para llevar a cabo el proyecto y elaborar el producto final.</p>
+<p>A través del siguiente tablero digital se facilita el acceso a los materiales de trabajo, enlaces, documentos y herramientas que se utilizarán durante el desarrollo de la actividad. </p>
+<p><a href="https://padlet.com/serranovalerobarbara/recursos-para-elaborar-un-presupuesto-matem-ticas-2-eso-6ansgbs62fwd4uil">https://padlet.com/serranovalerobarbara/recursos-para-elaborar-un-presupuesto-matem-ticas-2-eso-6ansgbs62fwd4uil</a></p>
+<p>Estos recursos permitirán al alumnado organizar la información, resolver dudas y trabajar de forma autónoma y guiada en el proyecto. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775905632885-qhkqunhy8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio el alumnado encontrará todos los recursos necesarios para llevar a cabo el proyecto y elaborar el producto final.</p>\n<p>A través del siguiente tablero digital se facilita el acceso a los materiales de trabajo, enlaces, documentos y herramientas que se utilizarán durante el desarrollo de la actividad. </p>\n<p><a href=\"https://padlet.com/serranovalerobarbara/recursos-para-elaborar-un-presupuesto-matem-ticas-2-eso-6ansgbs62fwd4uil\">https://padlet.com/serranovalerobarbara/recursos-para-elaborar-un-presupuesto-matem-ticas-2-eso-6ansgbs62fwd4uil</a></p>\n<p>Estos recursos permitirán al alumnado organizar la información, resolver dudas y trabajar de forma autónoma y guiada en el proyecto. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg9-941emdcv0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg9-941emdcv0</odePageId>
+      <odeBlockId>block-1775905869484-j0jo3kk9f</odeBlockId>
+      <blockName>Recursos para el profesorado</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg9-941emdcv0</odePageId>
+          <odeBlockId>block-1775905869484-j0jo3kk9f</odeBlockId>
+          <odeIdeviceId>idevice-1775905869481-r6g0r6oha</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio se recopilan los recursos de apoyo dirigidos al profesorado para la correcta implementación del proyecto en el aula.</p>
+<p>A través del siguiente tablero digital se incluyen materiales de referencia, orientaciones metodológicas, documentos de apoyo, instrumentos de evaluación y recursos complementarios para la planificación y el seguimiento de la actividad. </p>
+<p><a href="https://www.symbaloo.com/shared/AAAABkNl63oAA42ADtEDqQ==">https://www.symbaloo.com/shared/AAAABkNl63oAA42ADtEDqQ==</a></p>
+<p>Estos recursos facilitan la organización del proyecto, la atención a la diversidad del alumnado y el desarrollo de una evaluación coherente con los objetivos planteados. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775905869481-r6g0r6oha","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio se recopilan los recursos de apoyo dirigidos al profesorado para la correcta implementación del proyecto en el aula.</p>\n<p>A través del siguiente tablero digital se incluyen materiales de referencia, orientaciones metodológicas, documentos de apoyo, instrumentos de evaluación y recursos complementarios para la planificación y el seguimiento de la actividad. </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABkNl63oAA42ADtEDqQ==\">https://www.symbaloo.com/shared/AAAABkNl63oAA42ADtEDqQ==</a></p>\n<p>Estos recursos facilitan la organización del proyecto, la atención a la diversidad del alumnado y el desarrollo de una evaluación coherente con los objetivos planteados. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg9-upfuvetp1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg9-upfuvetp1</odePageId>
+      <odeBlockId>block-1775907316325-2qwcab7ir</odeBlockId>
+      <blockName>Temporalización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg9-upfuvetp1</odePageId>
+          <odeBlockId>block-1775907316325-2qwcab7ir</odeBlockId>
+          <odeIdeviceId>idevice-1775907316323-r9i706iej</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se desarrolla en 5 sesiones: </p>
+<p><strong>Sesión 1. Introducción al presupuesto familiar: </strong><br /></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;">TAREA</span>: Comprender qué es un presupuesto familiar, identificando ingresos, gastos y ahorro a partir de ejemplos sencillos y un debate guiado sobre gastos cotidianos.</li>
+<li><span style="text-decoration: underline;">AGRUPAMIENTO</span>: Grupo clase</li>
+<li><span style="text-decoration: underline;">TIEMPO</span>: 50 min</li>
+<li><span style="text-decoration: underline;">HERRAMIENTAS COLABORATIVAS</span>: Presentación en Canva o Genially y pizarra digital</li>
+<li><span style="text-decoration: underline;">ESPACIO</span>: Aula ordinaria</li>
+<li><span style="text-decoration: underline;">RECURSOS</span>: Ordenador del profesor y proyector</li>
+</ul>
+</li>
+</ul>
+<p><strong>Sesión 2. Formación de grupos y asignación de roles:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;">TAREA</span>: Formación de grupos cooperativos de 3-4 alumnos, análisis de un caso de familia ficticia y asignación de roles (registrador, calculador, presentador y verificador).</li>
+<li><span style="text-decoration: underline;">AGRUPAMIENTO</span>: Trabajo cooperativo en grupos heterogéneos</li>
+<li><span style="text-decoration: underline;">TIEMPO</span>: 50 min</li>
+<li><span style="text-decoration: underline;">HERRAMIENTAS COLABORATIVAS:</span> Documento compartido en Google Docs para organixar datos y roles</li>
+<li><span style="text-decoration: underline;">ESPACIO</span>: Aula ordinaria</li>
+<li><span style="text-decoration: underline;">RECURSOS</span>: Dispositivos del centro y conexión a internet</li>
+</ul>
+</li>
+</ul>
+<p><strong>Sesión 3. Organización de datos y cálculos:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;">TAREA</span>: Introducción de los datos del presupuesto en una hoja de cálculo (Google Sheets), realización de operaciones y análisis del equilibrio del presupuesto.</li>
+<li><span style="text-decoration: underline;">AGRUPAMIENTO</span>: Grupos cooperativos</li>
+<li><span style="text-decoration: underline;">TIEMPO</span>: 50 min</li>
+<li><span style="text-decoration: underline;">HERRAMIENTAS COLABORATIVAS</span>: Google Sheets</li>
+<li><span style="text-decoration: underline;">ESPACIO</span>: Aula ordinaria</li>
+<li>RECURSOS: Ordenadores, hojas de cálculo y conexión a internet</li>
+</ul>
+</li>
+</ul>
+<p><strong>Sesión 4. Elaboración del informe digital:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;">TAREA</span>: Elaboración de un informe digital que incluya tablas de ingresos y gastos, gráficos de porcentajes y conclusiones sobre el presupuesto familiar</li>
+<li><span style="text-decoration: underline;">AGRUPAMIENTO</span>: Grupos cooperativos</li>
+<li><span style="text-decoration: underline;">TIEMPO</span>: 50 min</li>
+<li><span style="text-decoration: underline;">HERRAMIENTAS COLABORATIVAS:</span> Presentación en Canva o Genially</li>
+<li><span style="text-decoration: underline;">ESPACIO</span>: Aula ordinaria</li>
+<li><span style="text-decoration: underline;">RECURSOS</span>: Ordenador del profesor y proyector</li>
+</ul>
+</li>
+</ul>
+<p><strong>Sesión 5. Presentación y reflexión: </strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li><span style="text-decoration: underline;">TAREA</span>: Exposición oral del presupuesto elaborado, comparación de resultados entre grupos y reflexión final sobre el aprendizaje y las dificultades encontradas</li>
+<li><span style="text-decoration: underline;">AGRUPAMIENTO</span>: Grupos cooperativos y grupo clase</li>
+<li><span style="text-decoration: underline;">TIEMPO</span>: 50 min</li>
+<li><span style="text-decoration: underline;">HERRAMIENTAS COLABORATIVAS</span>: Presentación en Canva o Genially y pizarra digital</li>
+<li><span style="text-decoration: underline;">ESPACIO</span>: Aula ordinaria</li>
+<li><span style="text-decoration: underline;">RECURSOS</span>: Ordenador del profesor y proyector</li>
+</ul>
+</li>
+</ul>
+<p>En el siguiente enlace se puede ver la temporalización comentada.</p>
+<p><a href="https://view.genially.com/69ccd904e27018d74601ba99">https://view.genially.com/69ccd904e27018d74601ba99</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775907316323-r9i706iej","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se desarrolla en 5 sesiones: </p>\n<p><strong>Sesión 1. Introducción al presupuesto familiar: </strong><br /></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"text-decoration: underline;\">TAREA</span>: Comprender qué es un presupuesto familiar, identificando ingresos, gastos y ahorro a partir de ejemplos sencillos y un debate guiado sobre gastos cotidianos.</li>\n<li><span style=\"text-decoration: underline;\">AGRUPAMIENTO</span>: Grupo clase</li>\n<li><span style=\"text-decoration: underline;\">TIEMPO</span>: 50 min</li>\n<li><span style=\"text-decoration: underline;\">HERRAMIENTAS COLABORATIVAS</span>: Presentación en Canva o Genially y pizarra digital</li>\n<li><span style=\"text-decoration: underline;\">ESPACIO</span>: Aula ordinaria</li>\n<li><span style=\"text-decoration: underline;\">RECURSOS</span>: Ordenador del profesor y proyector</li>\n</ul>\n</li>\n</ul>\n<p><strong>Sesión 2. Formación de grupos y asignación de roles:</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"text-decoration: underline;\">TAREA</span>: Formación de grupos cooperativos de 3-4 alumnos, análisis de un caso de familia ficticia y asignación de roles (registrador, calculador, presentador y verificador).</li>\n<li><span style=\"text-decoration: underline;\">AGRUPAMIENTO</span>: Trabajo cooperativo en grupos heterogéneos</li>\n<li><span style=\"text-decoration: underline;\">TIEMPO</span>: 50 min</li>\n<li><span style=\"text-decoration: underline;\">HERRAMIENTAS COLABORATIVAS:</span> Documento compartido en Google Docs para organixar datos y roles</li>\n<li><span style=\"text-decoration: underline;\">ESPACIO</span>: Aula ordinaria</li>\n<li><span style=\"text-decoration: underline;\">RECURSOS</span>: Dispositivos del centro y conexión a internet</li>\n</ul>\n</li>\n</ul>\n<p><strong>Sesión 3. Organización de datos y cálculos:</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"text-decoration: underline;\">TAREA</span>: Introducción de los datos del presupuesto en una hoja de cálculo (Google Sheets), realización de operaciones y análisis del equilibrio del presupuesto.</li>\n<li><span style=\"text-decoration: underline;\">AGRUPAMIENTO</span>: Grupos cooperativos</li>\n<li><span style=\"text-decoration: underline;\">TIEMPO</span>: 50 min</li>\n<li><span style=\"text-decoration: underline;\">HERRAMIENTAS COLABORATIVAS</span>: Google Sheets</li>\n<li><span style=\"text-decoration: underline;\">ESPACIO</span>: Aula ordinaria</li>\n<li>RECURSOS: Ordenadores, hojas de cálculo y conexión a internet</li>\n</ul>\n</li>\n</ul>\n<p><strong>Sesión 4. Elaboración del informe digital:</strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"text-decoration: underline;\">TAREA</span>: Elaboración de un informe digital que incluya tablas de ingresos y gastos, gráficos de porcentajes y conclusiones sobre el presupuesto familiar</li>\n<li><span style=\"text-decoration: underline;\">AGRUPAMIENTO</span>: Grupos cooperativos</li>\n<li><span style=\"text-decoration: underline;\">TIEMPO</span>: 50 min</li>\n<li><span style=\"text-decoration: underline;\">HERRAMIENTAS COLABORATIVAS:</span> Presentación en Canva o Genially</li>\n<li><span style=\"text-decoration: underline;\">ESPACIO</span>: Aula ordinaria</li>\n<li><span style=\"text-decoration: underline;\">RECURSOS</span>: Ordenador del profesor y proyector</li>\n</ul>\n</li>\n</ul>\n<p><strong>Sesión 5. Presentación y reflexión: </strong></p>\n<ul>\n<li style=\"list-style-type: none;\">\n<ul>\n<li><span style=\"text-decoration: underline;\">TAREA</span>: Exposición oral del presupuesto elaborado, comparación de resultados entre grupos y reflexión final sobre el aprendizaje y las dificultades encontradas</li>\n<li><span style=\"text-decoration: underline;\">AGRUPAMIENTO</span>: Grupos cooperativos y grupo clase</li>\n<li><span style=\"text-decoration: underline;\">TIEMPO</span>: 50 min</li>\n<li><span style=\"text-decoration: underline;\">HERRAMIENTAS COLABORATIVAS</span>: Presentación en Canva o Genially y pizarra digital</li>\n<li><span style=\"text-decoration: underline;\">ESPACIO</span>: Aula ordinaria</li>\n<li><span style=\"text-decoration: underline;\">RECURSOS</span>: Ordenador del profesor y proyector</li>\n</ul>\n</li>\n</ul>\n<p>En el siguiente enlace se puede ver la temporalización comentada.</p>\n<p><a href=\"https://view.genially.com/69ccd904e27018d74601ba99\">https://view.genially.com/69ccd904e27018d74601ba99</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekg9-bxd32texu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekg9-bxd32texu</odePageId>
+      <odeBlockId>block-1775908269929-wzedcfayr</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekg9-bxd32texu</odePageId>
+          <odeBlockId>block-1775908269929-wzedcfayr</odeBlockId>
+          <odeIdeviceId>idevice-1775908269926-7qqa9iyrj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto se desarrolla bajo un enfoque metodológico activo basado en el aprendizaje basado en proyectos (ABP), favoreciendo la implicación del alumnado en situaciones de aprendizaje significativas y funcionales. </p>
+<h3>Metodología</h3>
+<p>La metodología utilizada es activa, participativa y centrada en el alumnado. A través del trabajo en equipo, el alumnado deberá resolver una tarea real consistente en la elaboración de un presupuesto digital.</p>
+<p>Se fomenta el aprendizaje significativo mediante el uso de herramientas digitales promoviendo la autonomía, la toma de decisiones y el pensamiento crítico.</p>
+<h3>Competencias clave</h3>
+<p>Durante el desarrollo del proyecto se trabajan las siguientes competencias:</p>
+<ul>
+<li>Competencia matemática, en ciencia y tecnología.</li>
+<li>Competencia digital.</li>
+<li>Competencia personal, social y de aprender a aprender.</li>
+<li>Competencia en comunicación lingüística.</li>
+</ul>
+<h3>Relación de tareas-criterios </h3>
+<p><a href="https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing">https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing</a></p>
+<h3>Atención a la diversidad (DUA)</h3>
+<p>Este proyecto se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>
+<ul>
+<li>Múltiples formas de representación: uso de textos, imágenes, infografías y herramientas digitales.</li>
+<li>Múltiples formas de acción y expresión: trabajo en grupo, uso de hojas de cálculo y presentaciones.</li>
+<li>Múltiples formas de implicación: tareas motivadoras basadas en un reto real.</li>
+</ul>
+<p>Esto garantiza la participación de todo el alumnado, respetando los diferentes ritmos y estilos de aprendizaje.</p>
+<h3>Enfoque competencial</h3>
+<p>El proyecto integra contenidos matemáticos aplicados a situaciones reales, favoreciendo el desarrollo de habilidades prácticas como la organización de datos, el cálculo y la toma de decisiones económicas.</p>
+<h3>Organización del aula</h3>
+<p>El trabajo se realizará principalmente de forma cooperativa, fomentando la colaboración, el reparto de roles y la responsabilidad compartida dentro del grupo.</p>
+<p>El docente actuará como guía y facilitador del aprendizaje. </p>
+<h3>Relación general con la evaluación</h3>
+<p>La evaluación del proyecto estará vinculada al desarrollo de las tareas planteadas, valorando el uso de herramientas digitales, la resolución de problemas, el trabajo en equipo y la capacidad de agrupamiento. </p>
+<h3>Observaciones</h3>
+<p>Este proyecto está diseñado para ser flexible y adaptable a las características del grupo, permitiendo realizar ajustes según el ritmo de aprendizaje y las necesidades del alumnado. </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775908269926-7qqa9iyrj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto se desarrolla bajo un enfoque metodológico activo basado en el aprendizaje basado en proyectos (ABP), favoreciendo la implicación del alumnado en situaciones de aprendizaje significativas y funcionales. </p>\n<h3>Metodología</h3>\n<p>La metodología utilizada es activa, participativa y centrada en el alumnado. A través del trabajo en equipo, el alumnado deberá resolver una tarea real consistente en la elaboración de un presupuesto digital.</p>\n<p>Se fomenta el aprendizaje significativo mediante el uso de herramientas digitales promoviendo la autonomía, la toma de decisiones y el pensamiento crítico.</p>\n<h3>Competencias clave</h3>\n<p>Durante el desarrollo del proyecto se trabajan las siguientes competencias:</p>\n<ul>\n<li>Competencia matemática, en ciencia y tecnología.</li>\n<li>Competencia digital.</li>\n<li>Competencia personal, social y de aprender a aprender.</li>\n<li>Competencia en comunicación lingüística.</li>\n</ul>\n<h3>Relación de tareas-criterios </h3>\n<p><a href=\"https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing\">https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing</a></p>\n<h3>Atención a la diversidad (DUA)</h3>\n<p>Este proyecto se diseña siguiendo los principios del Diseño Universal para el Aprendizaje (DUA):</p>\n<ul>\n<li>Múltiples formas de representación: uso de textos, imágenes, infografías y herramientas digitales.</li>\n<li>Múltiples formas de acción y expresión: trabajo en grupo, uso de hojas de cálculo y presentaciones.</li>\n<li>Múltiples formas de implicación: tareas motivadoras basadas en un reto real.</li>\n</ul>\n<p>Esto garantiza la participación de todo el alumnado, respetando los diferentes ritmos y estilos de aprendizaje.</p>\n<h3>Enfoque competencial</h3>\n<p>El proyecto integra contenidos matemáticos aplicados a situaciones reales, favoreciendo el desarrollo de habilidades prácticas como la organización de datos, el cálculo y la toma de decisiones económicas.</p>\n<h3>Organización del aula</h3>\n<p>El trabajo se realizará principalmente de forma cooperativa, fomentando la colaboración, el reparto de roles y la responsabilidad compartida dentro del grupo.</p>\n<p>El docente actuará como guía y facilitador del aprendizaje. </p>\n<h3>Relación general con la evaluación</h3>\n<p>La evaluación del proyecto estará vinculada al desarrollo de las tareas planteadas, valorando el uso de herramientas digitales, la resolución de problemas, el trabajo en equipo y la capacidad de agrupamiento. </p>\n<h3>Observaciones</h3>\n<p>Este proyecto está diseñado para ser flexible y adaptable a las características del grupo, permitiendo realizar ajustes según el ritmo de aprendizaje y las necesidades del alumnado. </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekga-lneqlx0bp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekga-lneqlx0bp</odePageId>
+      <odeBlockId>block-1775909474153-s1priebfp</odeBlockId>
+      <blockName>Evalución</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekga-lneqlx0bp</odePageId>
+          <odeBlockId>block-1775909474153-s1priebfp</odeBlockId>
+          <odeIdeviceId>idevice-1775909474149-4z8fi8rcq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>1. Enfoque general de la evaluación</h3>
+<p>La evaluación en esta SdA será continua, formativa y criterial, atendiendo tanto al proceso como al producto final.</p>
+<p>Se utilizarán diferentes instrumentos de evaluación para: </p>
+<ul>
+<li>Obtener información variada y objetiva del aprendizaje del alumnado.</li>
+<li>Ofrecer feedback continuo orientado a la mejora.</li>
+<li>Favorecer la autorregulación del aprendizaje.</li>
+<li>Valorar competencias matemáticas, digitales y personales.</li>
+</ul>
+<h3>2. Relación entre tareas y criterios de evaluación</h3>
+<p>El proyecto se evalúa a partir de la relación entre las tareas realizadas y los criterios de evaluación del currículo:</p>
+<ul>
+<li>Presentación del proyecto: comprensión del contexto y planificación de la tarea.</li>
+<li>Uso seguro de la tecnología: uso responsable y ético de herramientas digitales.</li>
+<li>Elaboración de un presupuesto digital: resolución de problemas matemáticos en contextos reales.</li>
+<li>Trabajo cooperativo: participación activa y organización del grupo.</li>
+<li>Producto final: comunicación clara de los resultados. </li>
+</ul>
+<p><a href="https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing">https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing</a></p>
+<h3>3. Instrumento de evaluación 1: Rúbrica del producto final</h3>
+<h5><span style="text-decoration: underline;">¿Qué evalúa?</span></h5>
+<p>Con esta rúbrica se pretende valorar:</p>
+<p>• La corrección de los cálculos matemáticos.</p>
+<p>• El uso adecuado de porcentajes.</p>
+<p>• La organización de la información.</p>
+<p>• La claridad de la presentación y la comunicación oral.</p>
+<p>• El trabajo cooperativo.</p>
+<h5><span style="text-decoration: underline;">¿Cuándo se utiliza? </span></h5>
+<p>Se va a llevar a cabo al finalizar la sesión 5, tras la exposición del producto final. Esta se usa como evaluación del productor, pero también como herramienta de feedback para el alumnado. </p>
+<h5><span style="text-decoration: underline;">¿Quién evalúa? </span></h5>
+<p>El docente es quien hará uso de este instrumento para la evaluación. No obstante, puede compartirla previamente con el alumnado para que conozca los criterios que les serán evaluados. </p>
+<p><br /></p>
+<figure class="exe-figure position-center" style="width: 709px;">
+<h3><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 14.19.49.png" width="709" height="854" alt="Rúbrica del producto final" /></h3>
+<figcaption class="figcaption">
+<p><span class="author">Bárbara Serrano Valero </span>. <span class="title"><em>Rúbrica del producto final</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></p>
+</figcaption>
+</figure>
+<p><br /></p>
+<h3>4. Instrumento de evaluación 2: Diana de evaluación</h3>
+<h5><span style="text-decoration: underline;">Qué se evalúa? </span></h5>
+<p>Con la diana de evaluación se pretende evaluar la percepción del alumnado sobre:</p>
+<p>• Su implicación en el trabajo en grupo.</p>
+<p>• Su comprensión del presupuesto familiar.</p>
+<p>• El uso de herramientas digitales.</p>
+<p>• La comunicación y el respeto de roles.</p>
+<h5><span style="text-decoration: underline;">¿Cuándo se utiliza? </span></h5>
+<p>Al igual que la rúbrica, esta diana también se utilizará al finalizar la sesión 5, tras las exposiciones como herramienta de evaluación formativa y reflexión.</p>
+<h5><span style="text-decoration: underline;">¿Quién evalúa? </span></h5>
+<p>En este caso, es el propio alumnado quien realiza la evaluación (autoevaluación). Opcionalmente, también se puede realizar la evaluación entre iguales dentro del grupo.</p>
+<figure class="exe-figure position-center" style="width: 709px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-01 a las 12.03.52.png" width="709" height="358" alt="Diana de Autoevaluación" />
+<figcaption class="figcaption"><span class="author">Bárbara Serrano Valero</span>. <span class="title"><em>Diana de Autoevaluación</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" class="license" target="_blank" rel="noopener">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>En el siguiente enlace encontramos la evaluación de las tareas criteriales de manera detallada. </p>
+<p><a href="https://docs.google.com/document/d/1vNngm_eC5XX9K8J5a1YL2diiyHpCLbqHERVsR74523w/edit?usp=sharing">https://docs.google.com/document/d/1vNngm_eC5XX9K8J5a1YL2diiyHpCLbqHERVsR74523w/edit?usp=sharing</a></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775909474149-4z8fi8rcq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>1. Enfoque general de la evaluación</h3>\n<p>La evaluación en esta SdA será continua, formativa y criterial, atendiendo tanto al proceso como al producto final.</p>\n<p>Se utilizarán diferentes instrumentos de evaluación para: </p>\n<ul>\n<li>Obtener información variada y objetiva del aprendizaje del alumnado.</li>\n<li>Ofrecer feedback continuo orientado a la mejora.</li>\n<li>Favorecer la autorregulación del aprendizaje.</li>\n<li>Valorar competencias matemáticas, digitales y personales.</li>\n</ul>\n<h3>2. Relación entre tareas y criterios de evaluación</h3>\n<p>El proyecto se evalúa a partir de la relación entre las tareas realizadas y los criterios de evaluación del currículo:</p>\n<ul>\n<li>Presentación del proyecto: comprensión del contexto y planificación de la tarea.</li>\n<li>Uso seguro de la tecnología: uso responsable y ético de herramientas digitales.</li>\n<li>Elaboración de un presupuesto digital: resolución de problemas matemáticos en contextos reales.</li>\n<li>Trabajo cooperativo: participación activa y organización del grupo.</li>\n<li>Producto final: comunicación clara de los resultados. </li>\n</ul>\n<p><a href=\"https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing\">https://docs.google.com/document/d/152ujUE_Hsusmmt4DgJlTH68GK2W9Upy_9Ks_8ba-qxw/edit?usp=sharing</a></p>\n<h3>3. Instrumento de evaluación 1: Rúbrica del producto final</h3>\n<h5><span style=\"text-decoration: underline;\">¿Qué evalúa?</span></h5>\n<p>Con esta rúbrica se pretende valorar:</p>\n<p>• La corrección de los cálculos matemáticos.</p>\n<p>• El uso adecuado de porcentajes.</p>\n<p>• La organización de la información.</p>\n<p>• La claridad de la presentación y la comunicación oral.</p>\n<p>• El trabajo cooperativo.</p>\n<h5><span style=\"text-decoration: underline;\">¿Cuándo se utiliza? </span></h5>\n<p>Se va a llevar a cabo al finalizar la sesión 5, tras la exposición del producto final. Esta se usa como evaluación del productor, pero también como herramienta de feedback para el alumnado. </p>\n<h5><span style=\"text-decoration: underline;\">¿Quién evalúa? </span></h5>\n<p>El docente es quien hará uso de este instrumento para la evaluación. No obstante, puede compartirla previamente con el alumnado para que conozca los criterios que les serán evaluados. </p>\n<p><br /></p>\n<figure class=\"exe-figure position-center\" style=\"width: 709px;\">\n<h3><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-11 a las 14.19.49.png\" width=\"709\" height=\"854\" alt=\"Rúbrica del producto final\" /></h3>\n<figcaption class=\"figcaption\">\n<p><span class=\"author\">Bárbara Serrano Valero </span>. <span class=\"title\"><em>Rúbrica del producto final</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></p>\n</figcaption>\n</figure>\n<p><br /></p>\n<h3>4. Instrumento de evaluación 2: Diana de evaluación</h3>\n<h5><span style=\"text-decoration: underline;\">Qué se evalúa? </span></h5>\n<p>Con la diana de evaluación se pretende evaluar la percepción del alumnado sobre:</p>\n<p>• Su implicación en el trabajo en grupo.</p>\n<p>• Su comprensión del presupuesto familiar.</p>\n<p>• El uso de herramientas digitales.</p>\n<p>• La comunicación y el respeto de roles.</p>\n<h5><span style=\"text-decoration: underline;\">¿Cuándo se utiliza? </span></h5>\n<p>Al igual que la rúbrica, esta diana también se utilizará al finalizar la sesión 5, tras las exposiciones como herramienta de evaluación formativa y reflexión.</p>\n<h5><span style=\"text-decoration: underline;\">¿Quién evalúa? </span></h5>\n<p>En este caso, es el propio alumnado quien realiza la evaluación (autoevaluación). Opcionalmente, también se puede realizar la evaluación entre iguales dentro del grupo.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 709px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-01 a las 12.03.52.png\" width=\"709\" height=\"358\" alt=\"Diana de Autoevaluación\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Bárbara Serrano Valero</span>. <span class=\"title\"><em>Diana de Autoevaluación</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>En el siguiente enlace encontramos la evaluación de las tareas criteriales de manera detallada. </p>\n<p><a href=\"https://docs.google.com/document/d/1vNngm_eC5XX9K8J5a1YL2diiyHpCLbqHERVsR74523w/edit?usp=sharing\">https://docs.google.com/document/d/1vNngm_eC5XX9K8J5a1YL2diiyHpCLbqHERVsR74523w/edit?usp=sharing</a></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mo36ekgb-n0j85pkb2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mo36ekgb-n0j85pkb2</odePageId>
+      <odeBlockId>block-1775911235405-2sfohybaw</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mo36ekgb-n0j85pkb2</odePageId>
+          <odeBlockId>block-1775911235405-2sfohybaw</odeBlockId>
+          <odeIdeviceId>idevice-1775911235400-qn0a2y3pr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>Autoría</h3>
+<p>Este recurso educativo ha sido elaborado por</p>
+<p><strong>Bárbara Serrano Valero</strong></p>
+<p>Materia: Matemáticas</p>
+<p>Etapa: Educación Secundaria Obligatoria</p>
+<p><br /></p>
+<h3>Descripción del recurso </h3>
+<p>Este proyecto es una Situación de Aprendizaje basada en el aprendizaje por proyectos (ABP), en el que el alumnado debe elaborar un presupuesto familiar digital utilizando herramientas digitales como las hojas de cáculo.</p>
+<p>El recurso incluye la presentación del proyecto, recursos para el alumnado y profesorado, uso seguro de la tecnología, guía didáctica, evaluación y temporalización, favoreciendo un aprendizaje competencial, activo e inclusivo.</p>
+<h3>Licencia de uso</h3>
+<p>Este material se publica bajo licencia: </p>
+<ul>
+<li>Creative Commons By-SA 4.0</li>
+</ul>
+<h3>Autoría de materiales e imágenes</h3>
+<p>Las imágenes, infografías y recursos visuales incluidos en este proyecto han sido:</p>
+<ul>
+<li>Elaborados por la autora del recurso</li>
+<li>O procedentes de bancos de imágenes con licencia libre o Creative Commons</li>
+</ul>
+<p>En todos los casos se respeta la autoría y licencia correspondiente.</p>
+<p>Enlace del proyecto publicado: <a href="https://drive.google.com/file/d/1ksb1V9aheELG6PAc8P7LY7ogaOd8P8DP/view?usp=sharing">https://drive.google.com/file/d/1ksb1V9aheELG6PAc8P7LY7ogaOd8P8DP/view?usp=sharing</a></p>
+<p><a href="https://drive.google.com/file/d/1c4zZtZKHUeaG4S7KW3LoqUcvhAfptakY/view?usp=sharing">https://drive.google.com/file/d/1c4zZtZKHUeaG4S7KW3LoqUcvhAfptakY/view?usp=sharing</a></p>
+<p>Adicionalmente se ha subido a github como control de versiones :</p>
+<p><a href="https://github.com/serranovalerobarbara-dev/COMPETENCIA-DIGITAL-DOCENTE-NIVEL-B2-BSV">https://github.com/serranovalerobarbara-dev/COMPETENCIA-DIGITAL-DOCENTE-NIVEL-B2-BSV</a></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775911235400-qn0a2y3pr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>Autoría</h3>\n<p>Este recurso educativo ha sido elaborado por</p>\n<p><strong>Bárbara Serrano Valero</strong></p>\n<p>Materia: Matemáticas</p>\n<p>Etapa: Educación Secundaria Obligatoria</p>\n<p><br /></p>\n<h3>Descripción del recurso </h3>\n<p>Este proyecto es una Situación de Aprendizaje basada en el aprendizaje por proyectos (ABP), en el que el alumnado debe elaborar un presupuesto familiar digital utilizando herramientas digitales como las hojas de cáculo.</p>\n<p>El recurso incluye la presentación del proyecto, recursos para el alumnado y profesorado, uso seguro de la tecnología, guía didáctica, evaluación y temporalización, favoreciendo un aprendizaje competencial, activo e inclusivo.</p>\n<h3>Licencia de uso</h3>\n<p>Este material se publica bajo licencia: </p>\n<ul>\n<li>Creative Commons By-SA 4.0</li>\n</ul>\n<h3>Autoría de materiales e imágenes</h3>\n<p>Las imágenes, infografías y recursos visuales incluidos en este proyecto han sido:</p>\n<ul>\n<li>Elaborados por la autora del recurso</li>\n<li>O procedentes de bancos de imágenes con licencia libre o Creative Commons</li>\n</ul>\n<p>En todos los casos se respeta la autoría y licencia correspondiente.</p>\n<p>Enlace del proyecto publicado: <a href=\"https://drive.google.com/file/d/1ksb1V9aheELG6PAc8P7LY7ogaOd8P8DP/view?usp=sharing\">https://drive.google.com/file/d/1ksb1V9aheELG6PAc8P7LY7ogaOd8P8DP/view?usp=sharing</a></p>\n<p><a href=\"https://drive.google.com/file/d/1c4zZtZKHUeaG4S7KW3LoqUcvhAfptakY/view?usp=sharing\">https://drive.google.com/file/d/1c4zZtZKHUeaG4S7KW3LoqUcvhAfptakY/view?usp=sharing</a></p>\n<p>Adicionalmente se ha subido a github como control de versiones :</p>\n<p><a href=\"https://github.com/serranovalerobarbara-dev/COMPETENCIA-DIGITAL-DOCENTE-NIVEL-B2-BSV\">https://github.com/serranovalerobarbara-dev/COMPETENCIA-DIGITAL-DOCENTE-NIVEL-B2-BSV</a></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
